@@ -1,0 +1,20 @@
+body{
+   
+vertical-align: middle;
+text-align: center;
+background-image: url(6.jpg);
+background-size: cover;
+color: white;
+
+
+}
+.bod{
+    font-family: 'Lato', sans-serif;
+    margin: auto;
+    width: 300px;
+    color: #04d6e6;
+    font-size: 2em;
+    font-weight: 400px;
+    letter-spacing: 0.1em;
+    
+}
